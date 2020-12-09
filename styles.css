@@ -1,0 +1,35 @@
+body {
+    background-color: #CFF09E;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1,h2{
+    text-align: center;
+}
+h1 {
+    color:#0B486B;
+}
+h2{
+    color: #3B8686;
+}
+table {
+    width: 80%;
+    border: 2px solid #0B486B;
+    margin: 0 auto;
+    border-radius: 1%;
+}
+th {
+    /* border: 2px solid #0B486B; */
+    background-color: #3B8686;
+    color: #A8DBA8;
+}
+td {
+    border-top: 1px dotted #3B8686;
+}
+.label-white {
+    background-color: #A8DBA8;
+}
